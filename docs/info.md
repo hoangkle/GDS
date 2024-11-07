@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This works by utilizing only one AND gate and one OR gate.
 
 ## How to test
 
-Explain how to use your project
+To test, turn on each input except for input 6 and 7, for 6 and 7, only turn one of them on as they uilize an OR gate, meaning  one of them have to be on to recieve an output, to ensure its working correctly, it should output the number 8 with a dot at the end.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
